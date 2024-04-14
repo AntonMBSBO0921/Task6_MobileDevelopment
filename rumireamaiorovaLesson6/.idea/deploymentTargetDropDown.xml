@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.employeedb">
+        <State />
+      </entry>
+      <entry key="app.internalfilestorage">
+        <State />
+      </entry>
+      <entry key="app.notebook">
+        <State />
+      </entry>
+      <entry key="app.securesharedpreferences">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
